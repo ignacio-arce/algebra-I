@@ -1,4 +1,4 @@
-álgebra de baldor-----------------------------------------------------------------------
+-----------------------------------------------------------------------
 -- Nombre y LU/DNI de los integrantes del grupo:
 -- INTEGRANTE 1: Gabriel Szwarcberg 41009532
 -- INTEGRANTE 2: Ignacio Ezequiel Arce - 556/14
